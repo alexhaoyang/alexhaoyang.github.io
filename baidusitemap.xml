@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://yoursite-url/undefined/Awards/</loc>
+    <loc>http://yoursite-url/essay/Impartial-History-Project/</loc>
+    <lastmod>2022-10-24</lastmod>
+  </url>
+  <url>
+    <loc>http://yoursite-url/essay/Awards/</loc>
     <lastmod>2022-10-21</lastmod>
   </url>
   <url>
-    <loc>http://yoursite-url/undefined/3D-modeling-of-EM-images/</loc>
-    <lastmod>2022-10-21</lastmod>
+    <loc>http://yoursite-url/essay/S-T-Yau-High-School-Science-Award-2022/</loc>
+    <lastmod>2022-09-15</lastmod>
   </url>
   <url>
-    <loc>http://yoursite-url/undefined/NHSJSA-comparative-study-of-TBI-and-FAD-Online-NHSJS/</loc>
-    <lastmod>2022-10-21</lastmod>
+    <loc>http://yoursite-url/essay/3D-modeling-of-EM-images/</loc>
+    <lastmod>2022-07-21</lastmod>
   </url>
   <url>
-    <loc>http://yoursite-url/undefined/S-T-Yau-High-School-Science-Award-2022/</loc>
-    <lastmod>2022-10-21</lastmod>
+    <loc>http://yoursite-url/essay/NHSJSA-comparative-study-of-TBI-and-FAD-Online-NHSJS/</loc>
+    <lastmod>2022-06-27</lastmod>
   </url>
 </urlset> 
